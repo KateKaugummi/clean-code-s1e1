@@ -32,7 +32,7 @@
 .task {
   width: 56%;
   display: inline-block;
-  flex-grow: 1
+  flex-grow: 1;
 }
 .task__block {
   display: flex;
@@ -120,7 +120,7 @@
   width: 226px;
 }
 .list__item > .input__text {
-  width: 226px
+  width: 226px;
 }
 .list__img {
   height: 2em;
