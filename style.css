@@ -27,7 +27,7 @@
 .main {
   display: block;
   width: 500px;
-  margin: 0 auto 0;
+  margin: 0 auto;
 }
 .task {
   width: 56%;
@@ -89,7 +89,6 @@
 }
 
 /* New Task */
-
 .input__new-task {
   width: 318px;
 }
