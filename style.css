@@ -18,9 +18,11 @@
 }
 
 @media (max-width:768px) {
+
   .header { 
     text-align: center;
   }
+
 }
 .main {
   display: block;
@@ -37,16 +39,16 @@
   padding-top: 20px;
 }
 .list {
-  margin:0;
+  margin: 0;
   padding: 0px;
 }
 .list__item,
 .h__section {
-  list-style:none;
+  list-style: none;
 }
 .input,
 .btn {
-  outline:none;
+  outline: none;
 }
 .btn {
   background: none;
@@ -130,8 +132,8 @@
 }
 
 /* Completed */
-.todo-tasks .todo__label {
-  text-decoration: line-through
+.todo__tasks .todo__label {
+  text-decoration: line-through;
   color: #888;
 }
 
