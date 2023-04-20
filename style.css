@@ -107,7 +107,6 @@
 .list__item > * {
   vertical-align: middle;
 }
-
 .list__item > .input__checkbox {
   margin: 0 10px;
 }
